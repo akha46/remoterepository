@@ -1,2 +1,6 @@
 how are you?
+<<<<<<< HEAD
 hey yo
+=======
+new
+>>>>>>> a2d0a4e4822d4fa5169cb74ce98def19545285cc
